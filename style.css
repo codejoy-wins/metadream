@@ -29,3 +29,6 @@ html{
 .number{
     padding: 1vw;
 }
+a{
+    text-decoration: none;
+}
